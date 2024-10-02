@@ -1,0 +1,25 @@
+
+
+.one{
+    display: flex;
+}.data{
+    height: 50px;
+    width: 100px;
+    margin-left: 00px;
+}
+.form{
+    margin-left: 20px;
+    width: 200px;
+}
+.btn1{
+    
+
+}
+.btn1:hover{
+
+  
+}
+.cart,.seller{
+    text-decoration: none;
+    color:black;
+}
